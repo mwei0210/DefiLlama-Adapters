@@ -1,0 +1,22 @@
+{
+  "name": "polymesh-adapter",
+  "version": "1.0.0",
+  "description": "DefiLlama adapter for Polymesh blockchain TVL",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "dependencies": {
+    "@polymeshassociation/polymesh-sdk": "^27.7.0",
+    "axios": "^1.6.0"
+  },
+  "keywords": [
+    "defillama",
+    "polymesh",
+    "tvl",
+    "blockchain"
+  ],
+  "author": "",
+  "license": "MIT"
+}
+
